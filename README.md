@@ -6,7 +6,7 @@ Installation
 
 To install the latest version, use homebrew:
 
-```
+```sh
 brew install vim
 ```
 
